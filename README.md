@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me **animaypatel386@gmail.com**
 
 - ⚡ Fun fact  **Sometimes what we need is just a little push!!✌**
-<img align="left" alt="coding" width="300" src="http://octodex.github.com/images/mummytocat.gif" />
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<img align="left" alt="coding" width="300" src="http://octodex.github.com/images/mummytocat.gif" />
+<p align="right">
 <a href="https://twitter.com/@animaypatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@animaypatel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/animay-patel-33ba77249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/animay-patel-33ba77249/" height="30" width="40" /></a>
 <a href="https://instagram.com/_a_n_i_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_n_i_007" height="30" width="40" /></a>
