@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **animaypatel386@gmail.com**
 
-- ⚡ Fun fact  Sometimes what we need is just a little push!!✌
+- ⚡ Fun fact  **Sometimes what we need is just a little push!!✌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
