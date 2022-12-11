@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **animaypatel386@gmail.com**
 
 - ⚡ Fun fact  **Sometimes what we need is just a little push!!✌**
-
+<img align="left" alt="coding" width="300" src="http://octodex.github.com/images/mummytocat.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@animaypatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@animaypatel" height="30" width="40" /></a>
