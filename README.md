@@ -1,4 +1,4 @@
-![logo](https://github.com/aniX-007/aniX-007/blob/main/ani_000.png)
+
 
 <!--
 **aniX-007/aniX-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
